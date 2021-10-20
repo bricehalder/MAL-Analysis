@@ -1,0 +1,73 @@
+   NAME                                         STORY       CHARACTERS  VISUALS     SOUND       ENJOYMENT   RAW         OVERALL     
+1. Shingeki no Kyojin Season 3 Part 2           10          9           10          10          10          9.7         10          
+2. Fruits Basket: The Final                     10          10          9           9           10          9.6         10          
+3. Haikyuu!!: Karasuno Koukou vs. Shirat...     9           10          9           10          10          9.5         10          
+4. Fruits Basket 2nd Season                     9           10          9           9           10          9.3         10          
+5. One Punch Man                                8           9           10          10          10          9.1         9           
+6. Shingeki no Kyojin                           8           9           10          10          9           9.1         9           
+7. Shingeki no Kyojin Season 3                  9           8           10          10          9           9.1         9           
+8. Haikyuu!! Second Season                      8           10          8           10          10          9           9           
+9. Haikyuu!!                                    8           10          8           10          10          9           9           
+10. Haikyuu!!: To the Top 2nd Season             8           10          8           10          10          9           9           
+11. Hunter x Hunter (2011)                       10          10          8           7           10          9           9           
+12. Jujutsu Kaisen                               9           9           10          8           10          9           9           
+13. Fruits Basket 1st Season                     8           10          9           9           9           9           9           
+14. Fate/Zero 2nd Season                         9           9           10          8           9           9           9           
+15. Kimetsu no Yaiba                             8           9           10          9           10          8.9         9           
+16. Fullmetal Alchemist: Brotherhood             10          9           8           8           9           8.9         9           
+17. Shingeki no Kyojin: The Final Season         10          9           7           9           9           8.9         9           
+18. Shokugeki no Souma: San no Sara              9           9           9           8           10          8.8         9           
+19. Boku no Hero Academia 4th Season             9           9           8           9           10          8.8         9           
+20. Enen no Shouboutai: Ni no Shou               9           9           8           9           10          8.8         9           
+21. Fate/Zero                                    9           9           9           8           9           8.8         9           
+22. No Game No Life                              9           9           8           9           9           8.8         9           
+23. Haikyuu!!: To the Top                        8           10          7           10          9           8.8         9           
+24. Shingeki no Kyojin Season 2                  8           8           10          10          9           8.8         9           
+25. Boku no Hero Academia 2nd Season             8           9           8           10          10          8.7         9           
+26. Boku no Hero Academia                        8           9           8           10          9           8.7         9           
+27. 86                                           8           8           9           10          10          8.6         9           
+28. Shigatsu wa Kimi no Uso                      8           8           9           10          8           8.6         9           
+29. Shokugeki no Souma: Ni no Sara               8           9           9           8           10          8.5         9           
+30. Boku dake ga Inai Machi                      9           8           8           9           10          8.5         9           
+31. Kanojo, Okarishimasu                         8           9           9           8           9           8.5         9           
+32. Tengen Toppa Gurren Lagann                   8           9           8           9           9           8.5         9           
+33. Boku no Hero Academia 3rd Season             8           9           8           9           9           8.5         9           
+34. Shokugeki no Souma                           8           9           9           8           9           8.5         9           
+35. Re:Zero kara Hajimeru Isekai Seikatsu        9           8           8           9           8           8.5         9           
+36. Kaze ga Tsuyoku Fuiteiru                     8           9           8           9           8           8.5         9           
+37. Kimi no Na wa.                               8           7           10          10          8           8.5         9           
+38. Enen no Shouboutai                           8           9           8           9           8           8.5         9           
+39. Steins;Gate                                  10          8           7           8           9           8.4         9           
+40. Fate/stay night: Unlimited Blade Work...     8           8           10          8           9           8.4         9           
+41. Fate/stay night Movie: Heaven's Feel ...     8           8           10          8           8           8.4         9           
+42. Steins;Gate 0                                9           8           8           8           9           8.3         9           
+43. Death Note                                   9           8           8           8           9           8.3         9           
+44. Code Geass: Hangyaku no Lelouch R2           9           8           8           8           8           8.3         8           
+45. Kill la Kill                                 8           8           8           9           9           8.2         8           
+46. Fate/stay night: Unlimited Blade Works       8           8           9           8           8           8.2         8           
+47. One Punch Man 2nd Season                     8           9           7           8           9           8.1         8           
+48. Akame ga Kill!                               8           9           8           7           9           8.1         8           
+49. Tonikaku Kawaii                              8           8           7           9           9           8           8           
+50. Sword Art Online                             8           8           8           8           8           8           8           
+51. Kiznaiver                                    8           8           8           8           8           8           8           
+52. Ao no Exorcist                               8           8           8           8           8           8           8           
+53. Saenai Heroine no Sodatekata                 7           8           8           9           8           7.9         8           
+54. Mahou Shoujo Madoka★Magica                   8           8           7           8           8           7.8         8           
+55. Nisekoi                                      8           8           7           8           8           7.8         8           
+56. Seishun Buta Yarou wa Bunny Girl Senp...     8           8           8           7           8           7.8         8           
+57. Seitokai Yakuindomo                          7           8           8           8           9           7.7         8           
+58. Shingeki no Bahamut: Genesis                 8           7           8           8           8           7.7         8           
+59. Tokyo Ghoul                                  8           7           8           8           8           7.7         8           
+60. Vivy: Fluorite Eye's Song                    8           7           8           8           8           7.7         8           
+61. Shokugeki no Souma: Gou no Sara              8           9           5           8           8           7.7         8           
+62. Given                                        7           8           7           9           7           7.7         8           
+63. Code Geass: Hangyaku no Lelouch              8           7           8           7           8           7.5         8           
+64. Seitokai Yakuindomo*                         7           8           7           8           8           7.5         8           
+65. Darling in the FranXX                        7           8           8           7           8           7.5         8           
+66. Kono Subarashii Sekai ni Shukufuku wo!       7           8           8           7           7           7.5         8           
+67. Re:Zero kara Hajimeru Isekai Seikatsu...     8           8           6           7           6           7.4         7           
+68. Tokyo Ghoul:re                               7           7           7           7           6           7           7           
+69. Shokugeki no Souma: Shin no Sara             6           9           5           8           7           6.75        7           
+70. Tokyo Ghoul √A                               7           6           7           7           6           6.7         7           
+71. Nisekoi:                                     6           8           7           7           6           6.7         7           
+72. Koutetsujou no Kabaneri                      3           5           9           9           6           5.2         5           
