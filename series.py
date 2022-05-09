@@ -45,6 +45,17 @@ class Series:
         + '{:<12g}'.format(self.score) \
         + color.END
     
+    def str_no_color(self, value=25):
+        return f'({str(len(self.shows))}) ' \
+        + '{:45}'.format(Show.truncate(self, value)) \
+        + '{:<12g}'.format(round(self.plot,2)) \
+        + '{:<12g}'.format(round(self.characters, 2)) \
+        + '{:<12g}'.format(round(self.visuals, 2)) \
+        + '{:<12g}'.format(round(self.sound, 2)) \
+        + '{:<12g}'.format(round(self.enjoyment, 2)) \
+        + '{:<12g}'.format(round(self.raw, 2)) \
+        + '{:<12g}'.format(self.score) \
+    
     def __hash__(self):
         return hash(self.name)
     
@@ -66,4 +77,12 @@ class Series:
         self.calculateAverages()
     
     def getShows(self):
-        return [show.name for show in self.shows]
+        return [show.name for show in sorted(self.shows)]
+    
+    def truncate(self, value):
+        if len(self.name) < value:
+            return self.name
+        printname = self.name[:(value - 3)]
+        printname += '...'
+        return printname
+    
