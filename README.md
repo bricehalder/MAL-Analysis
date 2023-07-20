@@ -12,4 +12,7 @@ You need [Jupyter Notebook](https://jupyter.org/install) installed.
 
 * Optional: create a virtual env
 
+* `python -m venv env`
+* `source env/bin/activate`
 * `pip install -r requirements.txt`
+* `npm install`
